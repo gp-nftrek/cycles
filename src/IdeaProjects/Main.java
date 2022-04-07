@@ -51,7 +51,7 @@ for (int firstFridayNumber = 6; firstFridayNumber <= 31; firstFridayNumber=first
   //            В результате решения задачи в консоль должен вывестись следующий результат:
 //    1896
 //    1975
- //   2054
+ // ///  2054
 
 for (int kometaYear = 0; kometaYear < 2022+79 ; kometaYear = kometaYear +79) {
     if (kometaYear >= 2022-200 )
